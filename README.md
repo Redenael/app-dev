@@ -1,11 +1,11 @@
 # app-dev
 My first repository
 
-<h1>
+<h5>
 ## Information about favorite movies/series
-</h1>
+</h5>
 
 <p1>
-SDL;MDKNFUHVA DSIFDBUI BGEF
+It is based on a Nicholas Sparks book and it has what you'd possibly expect from him. Still, by the time it all ended, we were both touched by what happened. 
 </p1>
 
